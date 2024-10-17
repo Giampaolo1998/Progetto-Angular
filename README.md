@@ -1,0 +1,3 @@
+Il testo descrive la struttura di un progetto Angular, con il componente principale situato in app.component.*, che rappresenta la base dell'applicazione e include vari file correlati. Il file index.html viene caricato nel browser come punto di partenza. Viene poi menzionato l'App Module, che raggruppa i componenti dell'applicazione.
+
+Il componente Login gestisce l'accesso con username e password, utilizzando il metodo onSubmit(), che attiva un servizio di autenticazione. Infine, il Clienti Component mostra la lista dei clienti e permette di modificarli o eliminarli tramite metodi specifici (onEdit(), onDelete(), mostra()) e l'invio dei dati avviene con il metodo onSubmit().

@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "utente027",
+      "password": "berlino2024"
+    },
+    {
+      "id": "2",
+      "username": "utente028",
+      "password": "parigi2024"
+    }
+  ],
+  "clienti": [
+    {
+      "codiceFiscale": "RSSMRC80A01H501Z",
+      "nome": "Marco",
+      "cognome": "Rossi",
+      "dataNascita": "1980-01-11",
+      "azienda": "Tecnologie Italia S.p.A.",
+      "userId": null,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "codiceFiscale": "BNCGLL85M50L219Y",
+      "nome": "Giulia",
+      "cognome": "Bianchi",
+      "dataNascita": "1985-06-20",
+      "azienda": "Innovazioni S.r.l.",
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "codiceFiscale": "VRDLCA90D12F205K",
+      "nome": "Luca",
+      "cognome": "Verdi",
+      "dataNascita": "1990-04-12",
+      "azienda": "Soluzioni Globali S.p.A.",
+      "userId": null
+    },
+    {
+      "id": "4",
+      "codiceFiscale": "SPSFNC78R45F839B",
+      "nome": "Francesca",
+      "cognome": "Esposito",
+      "dataNascita": "1978-10-15",
+      "azienda": "NextGen Tech S.r.l.",
+      "userId": null
+    },
+    {
+      "id": "5",
+      "codiceFiscale": "CNTLSN95T22D612P",
+      "nome": "Alessandro",
+      "cognome": "Conti",
+      "dataNascita": "1995-12-22",
+      "azienda": "Alfa Servizi S.p.A.",
+      "userId": null
+    }
+  ]
+}
